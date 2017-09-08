@@ -57,10 +57,10 @@ read more about their content [here](https://codelabs.developers.google.com/code
 Run the following command
 ```
 python ./optimize.py \
---input=./tf_files/inception \
---output=./tf_files/retrained_graph.pb \
---input_names=./tf_files/retrained_labels.txt \
---output_names=./tf_files/flower_photos
+--input=./tf_files/retrained_graph.pb \
+--output=./tf_files/optimized_graph.pb \
+--input_names=Mul \
+--output_names=final_result
 ```
 
 
