@@ -52,7 +52,19 @@ tf_files
 
 read more about their content [here](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets).
 
-### 4. Use the retrained Inception
+### 4. Optimize Inception for inference (prediction)
+
+Run the following command
+```
+python ./optimize.py \
+--input=./tf_files/inception \
+--output=./tf_files/retrained_graph.pb \
+--input_names=./tf_files/retrained_labels.txt \
+--output_names=./tf_files/flower_photos
+```
+
+
+### 5. Use the retrained Inception
 
 Let's test the re-training on a daisy image:
 ```
