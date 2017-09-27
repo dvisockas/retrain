@@ -33,7 +33,7 @@ read more about their content [here](https://codelabs.developers.google.com/code
 
 Let's test the re-training on a karbauskis image:
 ```
-python ./label_image.py ./tf_files/ar_tikrai_ramunas.jpg
+python ./label_image.py ./tf_files/ar_tikrai_veryga.jpg
 ```
 
 you should get something like:
