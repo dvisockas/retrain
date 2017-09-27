@@ -9,7 +9,9 @@ In particular we will use photos of flowers
 
 ### 0. Install tensorflow
 
-`$ pip install tensorflow` or `$ conda install tensorflow`
+```$ pip install tensorflow```
+or
+```$ conda install tensorflow```
 
 ### 1. Retrain Inception
 
