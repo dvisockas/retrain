@@ -1,5 +1,8 @@
 import sys
 import tensorflow as tf
+import os
+
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 image_path = sys.argv[1]
 
@@ -29,4 +32,4 @@ with tf.Session() as sess:
     for node_id in top_k:
         human_string = label_lines[node_id]
         score = predictions[0][node_id]
-        print('%s (score = %.5f)' % (human_string, score))
+        print('{} ({}% sure)'.format(human_string, round(score * 100, 2)))
