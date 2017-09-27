@@ -38,6 +38,6 @@ python ./label_image.py ./tf_files/ar_tikrai_ramunas.jpg
 
 you should get something like:
 ```
-karbakrauskis (score = 0.93071)
-veryga (score = 0.00595)
+veryga (score = 0.99771)
+karbakrauskis (score = 0.00229)
 ```

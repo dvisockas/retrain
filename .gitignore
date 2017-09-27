@@ -1,4 +1,6 @@
 tf_files/inception/*
+tf_files/retrained_graph.pb
+tf_files/retrained_labels.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
