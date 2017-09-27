@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>	<html lang="lt-LT" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>		<html lang="lt-LT" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>		<html lang="lt-LT" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>		<html lang="lt-LT" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="lt-LT" class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=yes">
+<meta name="HandheldFriendly" content="true">
+
+<link rel="pingback" href="http://psichika.eu/xmlrpc.php" />
+
+<title>Page not found | Psichika</title>
+
+
+<!-- This site is optimized with the Yoast SEO plugin v5.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/psichika.eu\/","name":"Psichika","potentialAction":{"@type":"SearchAction","target":"http:\/\/psichika.eu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//platform.linkedin.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Psichika &raquo; Įrašų RSS srautas" href="http://psichika.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Psichika &raquo; Komentarų RSS srautas" href="http://psichika.eu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/psichika.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='parent-style-css'  href='http://psichika.eu/feed//wp-content/themes/mesocolumn/style.css?ver=1.6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-responsive-css'  href='http://psichika.eu/feed//wp-content/themes/mesocolumn/responsive.css?ver=1.6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://psichika.eu/feed//wp-content/themes/mesocolumn/lib/scripts/superfish-menu/css/superfish.css?ver=1.6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-cdn-css'  href='http://psichika.eu/feed//wp-content/themes/mesocolumn/lib/scripts/font-awesome/css/font-awesome.css?ver=1.6.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='really_simple_share_style-css'  href='http://psichika.eu/feed//wp-content/plugins/really-simple-facebook-twitter-share-buttons/style.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='social-essentials-css'  href='http://psichika.eu/feed//wp-content/plugins/social-essentials/style.css?ver=4.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://platform.linkedin.com/in.js?ver=4.8.2'></script>
+<script type='text/javascript' src='http://psichika.eu/feed//wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://psichika.eu/feed//wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://psichika.eu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://psichika.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://psichika.eu/feed//wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<link rel='shortlink' href='http://psichika.eu/0' />
+<script type="text/javascript" src="http://psichika.eu/feed//wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
+<script type="text/javascript">AudioPlayer.setup("http://psichika.eu/feed//wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<script type="text/javascript">
+        //<![CDATA[
+        
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+      
+      window.___gcfg = {lang: "lt"};
+		  (function() {
+		    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+		    po.src = "https://apis.google.com/js/plusone.js";
+		    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+		  })();
+      
+        //]]>
+  		</script><style type="text/css" media="all">
+#main-navigation li.tn_cat_color_2060 a {border-bottom: 5px solid #00d2f1;}#main-navigation ul.sf-menu li.tn_cat_color_2060:hover {background-color: #00d2f1;}#main-navigation li.tn_cat_color_2060.current-menu-item a {background-color: #00d2f1;color:white;}#main-navigation li.tn_cat_color_2060.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_2060 li a {color: #00d2f1;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_2060 a:hover {color: #fff !important;background-color: #00d2f1;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_2060 {border-bottom: 5px solid #00d2f1;}h2.header-title.feat_tn_cat_color_2060 {background-color: #00d2f1;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_2060 h1.post-title a,#custom .archive_tn_cat_color_2060 h2.post-title a {color: #00d2f1 !important;}aside.home-feat-cat.post_tn_cat_color_2060 .widget a, aside.home-feat-cat.post_tn_cat_color_2060 article a {color: #00d2f1;}#custom #post-entry.archive_tn_cat_color_2060 article .post-meta a:hover {color: #00d2f1 !important;}#main-navigation .sf-menu li.tn_cat_color_2060 ul  {background-color: #00d2f1;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_2060 ul li a:hover  {background-color:#009fbe;background-image: none;}#main-navigation li.tn_cat_color_102 a {border-bottom: 5px solid #86269b;}#main-navigation ul.sf-menu li.tn_cat_color_102:hover {background-color: #86269b;}#main-navigation li.tn_cat_color_102.current-menu-item a {background-color: #86269b;color:white;}#main-navigation li.tn_cat_color_102.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_102 li a {color: #86269b;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_102 a:hover {color: #fff !important;background-color: #86269b;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_102 {border-bottom: 5px solid #86269b;}h2.header-title.feat_tn_cat_color_102 {background-color: #86269b;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_102 h1.post-title a,#custom .archive_tn_cat_color_102 h2.post-title a {color: #86269b !important;}aside.home-feat-cat.post_tn_cat_color_102 .widget a, aside.home-feat-cat.post_tn_cat_color_102 article a {color: #86269b;}#custom #post-entry.archive_tn_cat_color_102 article .post-meta a:hover {color: #86269b !important;}#main-navigation .sf-menu li.tn_cat_color_102 ul  {background-color: #86269b;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_102 ul li a:hover  {background-color:#530068;background-image: none;}#main-navigation li.tn_cat_color_129 a {border-bottom: 5px solid #fe9601;}#main-navigation ul.sf-menu li.tn_cat_color_129:hover {background-color: #fe9601;}#main-navigation li.tn_cat_color_129.current-menu-item a {background-color: #fe9601;color:white;}#main-navigation li.tn_cat_color_129.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_129 li a {color: #fe9601;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_129 a:hover {color: #fff !important;background-color: #fe9601;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_129 {border-bottom: 5px solid #fe9601;}h2.header-title.feat_tn_cat_color_129 {background-color: #fe9601;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_129 h1.post-title a,#custom .archive_tn_cat_color_129 h2.post-title a {color: #fe9601 !important;}aside.home-feat-cat.post_tn_cat_color_129 .widget a, aside.home-feat-cat.post_tn_cat_color_129 article a {color: #fe9601;}#custom #post-entry.archive_tn_cat_color_129 article .post-meta a:hover {color: #fe9601 !important;}#main-navigation .sf-menu li.tn_cat_color_129 ul  {background-color: #fe9601;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_129 ul li a:hover  {background-color:#cb6300;background-image: none;}#main-navigation li.tn_cat_color_1855 a {border-bottom: 5px solid #00b796;}#main-navigation ul.sf-menu li.tn_cat_color_1855:hover {background-color: #00b796;}#main-navigation li.tn_cat_color_1855.current-menu-item a {background-color: #00b796;color:white;}#main-navigation li.tn_cat_color_1855.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_1855 li a {color: #00b796;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_1855 a:hover {color: #fff !important;background-color: #00b796;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_1855 {border-bottom: 5px solid #00b796;}h2.header-title.feat_tn_cat_color_1855 {background-color: #00b796;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_1855 h1.post-title a,#custom .archive_tn_cat_color_1855 h2.post-title a {color: #00b796 !important;}aside.home-feat-cat.post_tn_cat_color_1855 .widget a, aside.home-feat-cat.post_tn_cat_color_1855 article a {color: #00b796;}#custom #post-entry.archive_tn_cat_color_1855 article .post-meta a:hover {color: #00b796 !important;}#main-navigation .sf-menu li.tn_cat_color_1855 ul  {background-color: #00b796;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_1855 ul li a:hover  {background-color:#008463;background-image: none;}#main-navigation li.tn_cat_color_229 a {border-bottom: 5px solid #cc0063;}#main-navigation ul.sf-menu li.tn_cat_color_229:hover {background-color: #cc0063;}#main-navigation li.tn_cat_color_229.current-menu-item a {background-color: #cc0063;color:white;}#main-navigation li.tn_cat_color_229.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_229 li a {color: #cc0063;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_229 a:hover {color: #fff !important;background-color: #cc0063;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_229 {border-bottom: 5px solid #cc0063;}h2.header-title.feat_tn_cat_color_229 {background-color: #cc0063;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_229 h1.post-title a,#custom .archive_tn_cat_color_229 h2.post-title a {color: #cc0063 !important;}aside.home-feat-cat.post_tn_cat_color_229 .widget a, aside.home-feat-cat.post_tn_cat_color_229 article a {color: #cc0063;}#custom #post-entry.archive_tn_cat_color_229 article .post-meta a:hover {color: #cc0063 !important;}#main-navigation .sf-menu li.tn_cat_color_229 ul  {background-color: #cc0063;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_229 ul li a:hover  {background-color:#990030;background-image: none;}#main-navigation li.tn_cat_color_1097 a {border-bottom: 5px solid #cc181e;}#main-navigation ul.sf-menu li.tn_cat_color_1097:hover {background-color: #cc181e;}#main-navigation li.tn_cat_color_1097.current-menu-item a {background-color: #cc181e;color:white;}#main-navigation li.tn_cat_color_1097.current-menu-item a span.menu-decsription {color:white;}ul.sub_tn_cat_color_1097 li a {color: #cc181e;}#main-navigation .sf-menu li a:hover {color: #fff !important;}#custom #main-navigation .sf-menu li.tn_cat_color_1097 a:hover {color: #fff !important;background-color: #cc181e;}aside.home-feat-cat h4.homefeattitle.feat_tn_cat_color_1097 {border-bottom: 5px solid #cc181e;}h2.header-title.feat_tn_cat_color_1097 {background-color: #cc181e;padding: 1% 2%;width:95%;color: white;}#custom .archive_tn_cat_color_1097 h1.post-title a,#custom .archive_tn_cat_color_1097 h2.post-title a {color: #cc181e !important;}aside.home-feat-cat.post_tn_cat_color_1097 .widget a, aside.home-feat-cat.post_tn_cat_color_1097 article a {color: #cc181e;}#custom #post-entry.archive_tn_cat_color_1097 article .post-meta a:hover {color: #cc181e !important;}#main-navigation .sf-menu li.tn_cat_color_1097 ul  {background-color: #cc181e;background-image: none;}#main-navigation .sf-menu li.tn_cat_color_1097 ul li a:hover  {background-color:#990000;background-image: none;}</style>
+<style type="text/css" media="all">
+#main-navigation li.menu-item-object-page.tn_page_color_16189 a {border-bottom: 5px solid #eeee22;}#main-navigation ul.sf-menu li.menu-item-object-page.tn_page_color_16189:hover {background-color: #eeee22;}#main-navigation .sf-menu li.menu-item-object-page.tn_page_color_16189 a:hover {color: #fff !important;background-color: #eeee22;}#main-navigation .sf-menu li.menu-item-object-page.tn_page_color_16189 ul  {background-color: #eeee22;background-image: none;}#main-navigation .sf-menu li.menu-item-object-page.tn_page_color_16189 ul li a:hover  {background-color: #bbbb00 !important;background-image: none;} #main-navigation li.menu-item-object-page.tn_page_color_6088 a {border-bottom: 5px solid #a79e65;}#main-navigation ul.sf-menu li.menu-item-object-page.tn_page_color_6088:hover {background-color: #a79e65;}#main-navigation .sf-menu li.menu-item-object-page.tn_page_color_6088 a:hover {color: #fff !important;background-color: #a79e65;}#main-navigation .sf-menu li.menu-item-object-page.tn_page_color_6088 ul  {background-color: #a79e65;background-image: none;}#main-navigation .sf-menu li.menu-item-object-page.tn_page_color_6088 ul li a:hover  {background-color: #746b32 !important;background-image: none;} </style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css">#skypeDropdown-transparent,#skypeDropdown-white{z-index:1}#skypedetectionswf{position:fixed;top:0px;left:-10px}#skypeCheckNotice{position:fixed !important}</style><style type='text/css' media='all'>#custom #post-entry {float: right;width: 72%;}
+#custom #left-sidebar {padding:10px 0 0;float: left;width: 25%;}
+#left-sidebar .widget-area aside ul:first-of-type {width: 100%;padding: 0;}
+#left-sidebar .widget-area aside li a:hover {color:;}
+#left-sidebar h3.widget-title {padding: 0% 0% 10px;font-size: 1.25em;margin: 0px 0px 0.5em;float: left;width: 100%;color: #333;text-transform: capitalize;border-bottom: 5px solid ;background:transparent none;border-radius:0;}
+</style><style type="text/css" media="all">
+body {font-family:Arial;font-weight:normal;}
+#siteinfo div,h1,h2,h3,h4,h5,h6,.header-title,#main-navigation, #featured #featured-title, #cf .tinput, #wp-calendar caption,.flex-caption h1,#portfolio-filter li,.nivo-caption a.read-more,.form-submit #submit,.fbottom,ol.commentlist li div.comment-post-meta, .home-post span.post-category a,ul.tabbernav li a {font-family:  Arial; font-weight: normal; }
+#main-navigation, .sf-menu li a {font-family: Arial; font-weight:normal; }
+#Gallerybox,#myGallery,#myGallerySet,#flickrGallery {height:300px;}
+img.home-feat-rss {display:none;}#custom #siteinfo a {color: # !important;text-decoration: none;}
+#custom #siteinfo p#site-description {color: # !important;text-decoration: none;}
+#post-entry div.post-thumb.size-thumbnail {float:left;width:100px;}
+#post-entry article .post-right {margin:0 0 0 120px;}
+</style>
+<!-- BEGIN GADWP v5.1.1.2 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-32258972-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+
+</head>
+
+<body class="error404 unknown" id="custom">
+
+<div class="product-with-desc secbody">
+
+<div id="wrapper">
+
+<div id="wrapper-main">
+
+<div id="bodywrap" class="innerwrap">
+
+<div id="bodycontent">
+
+<div id="container">
+
+<nav class="top-nav iegradient effect-1" id="top-navigation">
+<div class="innerwrap">
+<ul id="menu-meniu" class="sf-menu"><li id='menu-item-24092'  class="menu-item menu-item-type-post_type menu-item-object-page no_desc   "><a  href="http://psichika.eu/blog/">Naujausi</a></li>
+<li id='menu-item-24055'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://psichika.eu/blog/psichologas-atsako/">Specialisto komentaras</a></li>
+<li id='menu-item-5273'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://psichika.eu/blog/renginiai/">SKELBIMAI</a></li>
+<li id='menu-item-23354'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc   "><a  href="http://psichika.eu/blog/tyrimai/">Mokslas</a></li>
+<li id='menu-item-16319'  class="menu-item menu-item-type-post_type menu-item-object-page no_desc   tn_page_color_16189"><a  title="Knygos" href="http://psichika.eu/e-parduotuve/">E-parduotuvė</a></li>
+<li id='menu-item-23380'  class="menu-item menu-item-type-post_type menu-item-object-page no_desc   "><a  href="http://psichika.eu/konsultavimas/">Paslaugos</a></li>
+<li id='menu-item-4684'  class="menu-item menu-item-type-post_type menu-item-object-page no_desc   "><a  href="http://psichika.eu/about-2/">Apie</a></li>
+</ul></div>
+</nav>
+<!-- HEADER START -->
+<header class="iegradient _head" id="header">
+<div class="header-inner">
+<div class="innerwrap">
+<div id="siteinfo">
+<h1 ><a href="http://psichika.eu/" title="Psichika" rel="home">Psichika</a></h1 ><p id="site-description">Populiarioji psichologija: straipsniai, aktualijos, testai</p>
+</div>
+<!-- SITEINFO END -->
+</div>
+</div>
+</header>
+<!-- HEADER END -->
+<div class="container-wrap">
+
+<!-- NAVIGATION START -->
+<nav class="main-nav iegradient" id="main-navigation">
+<ul id="menu-meniu-2" class="sf-menu"><li id='menu-item-24091'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_1855 "><a  href="http://psichika.eu/blog/pranesimai-spaudai/">Naujienos Lietuvoje</a></li>
+<li id='menu-item-24051'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_102 "><a  href="http://psichika.eu/blog/istorijos/">Istorijos</a></li>
+<li id='menu-item-24053'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_129 "><a  href="http://psichika.eu/blog/knygu-apzvalga/">KNYGŲ apžvalga</a></li>
+<li id='menu-item-24050'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_229 "><a  href="http://psichika.eu/blog/testai/">Testai</a></li>
+<li id='menu-item-24054'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_2060 "><a  href="http://psichika.eu/blog/audio/">Audio</a></li>
+<li id='menu-item-24052'  class="menu-item menu-item-type-taxonomy menu-item-object-category no_desc  tn_cat_color_1097 "><a  href="http://psichika.eu/blog/video-2/">VIDEO</a></li>
+<li id='menu-item-24058'  class="menu-item menu-item-type-post_type menu-item-object-page no_desc   tn_page_color_6088"><a  href="http://psichika.eu/psichologas/">Klausk specialisto</a></li>
+</ul></nav>
+<!-- NAVIGATION END -->
+<!-- CONTENT START -->
+<div class="content full-width">
+<div class="content-inner">
+<!-- POST ENTRY -->
+<div id="post-entry">
+<div class="post-entry-inner">
+<article class="post-single page-single 404-page">
+<h1 class="post-title">Error 404</h1>
+<div class="post-content">
+<h3>The page you requested cannot be found!</h3>
+<p>Perhaps you are here because:</p>
+<ul>
+<li>The page has moved</li>
+<li>The page url has been change</li>
+<li>The page no longer exist</li>
+</ul>
+<p><strong>Don't worry, we are still here, just <a href='http://psichika.eu'>click here</a> to go back to civilization.</strong></p>
+</div>
+<!-- POST CONTENT END -->
+</article>
+</div>
+</div>
+<!-- POST ENTRY END -->
+<div id="left-sidebar" class="sidebar">
+<div class="sidebar-inner">
+<div class="widget-area the-icons">
+<aside id="text-54" class="widget widget_text">			<div class="textwidget"><a href="http://psichika.eu/konsultavimas/"><img width="250"  height="300" src="http://psichika.eu/feed//wp-content/uploads/2016/03/psichika.png"></a></div>
+		</aside><aside id="nav_menu-10" class="widget widget_nav_menu"><h3 class="widget-title">Paslaugos</h3><div class="menu-konsultuoja-container"><ul id="menu-konsultuoja" class="menu"><li id="menu-item-23503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23503"><a href="http://psichika.eu/konsultavimas/">VISI specialistai</a></li>
+<li id="menu-item-23479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23479"><a href="http://psichika.eu/konsultuoja-internete/">Konsultuoja INTERNETE</a></li>
+<li id="menu-item-23472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23472"><a href="http://psichika.eu/konsultuoja-alytuje/">Alytus</a></li>
+<li id="menu-item-31337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31337"><a href="http://psichika.eu/konsultacijos-birzai/">Biržai</a></li>
+<li id="menu-item-28447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28447"><a href="http://psichika.eu/jurbarkas/">Jurbarkas</a></li>
+<li id="menu-item-23477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23477"><a href="http://psichika.eu/konsultuoja-kaune/">Kaunas</a></li>
+<li id="menu-item-23476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23476"><a href="http://psichika.eu/konsultuja-klaipedoje/">Klaipėda</a></li>
+<li id="menu-item-23474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23474"><a href="http://psichika.eu/konsultuoja-palangoje/">Palanga</a></li>
+<li id="menu-item-23473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23473"><a href="http://psichika.eu/konsultuoja-panevezyje/">Panevėžys</a></li>
+<li id="menu-item-31247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31247"><a href="http://psichika.eu/konsultacijos-siluteje/">Šilutė</a></li>
+<li id="menu-item-34128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34128"><a href="http://psichika.eu/svencionys-psichologas/">Švenčionys</a></li>
+<li id="menu-item-23478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23478"><a href="http://psichika.eu/konsultuoja-vilniuje/">Vilnius</a></li>
+<li id="menu-item-23475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23475"><a href="http://psichika.eu/konsultuoja-londone/">DIDŽIOJI BRITANIJA</a></li>
+<li id="menu-item-32326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32326"><a href="http://psichika.eu/prancuzija-psichologinis-konsultavimas-ir-terapija/">PRANCŪZIJA</a></li>
+</ul></div></aside><aside id="nav_menu-7" class="widget widget_nav_menu"><h3 class="widget-title">Temos</h3><div class="menu-temos-container"><ul id="menu-temos" class="menu"><li id="menu-item-2893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2893"><a href="http://psichika.eu/blog/abortai/">Abortai</a></li>
+<li id="menu-item-2192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2192"><a href="http://psichika.eu/blog/alfredas-adleris/">Adleris Alfredas</a></li>
+<li id="menu-item-25974" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25974"><a href="http://psichika.eu/blog/agresija-2/">Agresija</a></li>
+<li id="menu-item-25975" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25975"><a href="http://psichika.eu/blog/aistros-2/">Aistros</a></li>
+<li id="menu-item-25976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25976"><a href="http://psichika.eu/blog/alga/">Alga</a></li>
+<li id="menu-item-2894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2894"><a href="http://psichika.eu/blog/alimentai-islaikymas/">Alimentai</a></li>
+<li id="menu-item-2391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2391"><a href="http://psichika.eu/blog/gordon-willard-allport/">Allport Gordon Willard</a></li>
+<li id="menu-item-10871" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10871"><a href="http://psichika.eu/blog/priklausomybes/alkoholizmas-2/">Alkoholis</a></li>
+<li id="menu-item-5586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5586"><a href="http://psichika.eu/blog/alternatyvi-medicina/">Alternatyvi medicina</a></li>
+<li id="menu-item-26798" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26798"><a href="http://psichika.eu/blog/alternatyvos/">Alternatyvos</a></li>
+<li id="menu-item-13782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13782"><a href="http://psichika.eu/blog/alzheimerio-liga/">Alzheimerio liga</a></li>
+<li id="menu-item-4192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4192"><a href="http://psichika.eu/blog/analitine-psichologija/">Analitinė psichologija</a></li>
+<li id="menu-item-22039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22039"><a href="http://psichika.eu/blog/anoreksija/">Anoreksija</a></li>
+<li id="menu-item-26709" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26709"><a href="http://psichika.eu/blog/antropologija/">Antropologija</a></li>
+<li id="menu-item-6762" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6762"><a href="http://psichika.eu/blog/antsvoris-2/">Antsvoris</a></li>
+<li id="menu-item-10353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10353"><a href="http://psichika.eu/blog/apklausos/">Apklausos</a></li>
+<li id="menu-item-25316" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25316"><a href="http://psichika.eu/blog/aplinka/">Aplinka</a></li>
+<li id="menu-item-2404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2404"><a href="http://psichika.eu/blog/asmenybe/">Asmenybė</a>
+<ul  class="sub-menu">
+	<li id="menu-item-5831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5831"><a href="http://psichika.eu/blog/asmenybe/asmenybes-teorijos/">Asmenybės teorijos</a></li>
+	<li id="menu-item-21838" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21838"><a href="http://psichika.eu/blog/asmenybe/asmenybes-sutrikimai/">Asmenybės sutrikimai</a></li>
+</ul>
+</li>
+<li id="menu-item-22890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22890"><a href="http://psichika.eu/blog/astrologija/">Astrologija</a></li>
+<li id="menu-item-5989" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5989"><a href="http://psichika.eu/blog/ateitis-2/">Ateitis</a></li>
+<li id="menu-item-515" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-515"><a href="http://psichika.eu/blog/atkaklumas/">Atkaklumas</a></li>
+<li id="menu-item-10564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10564"><a href="http://psichika.eu/blog/atleidimas/">Atleidimas</a></li>
+<li id="menu-item-2892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2892"><a href="http://psichika.eu/blog/atmintis/">Atmintis</a></li>
+<li id="menu-item-20908" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20908"><a href="http://psichika.eu/blog/atsipalaidavimas/">Atsipalaidavimas</a></li>
+<li id="menu-item-14297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14297"><a href="http://psichika.eu/blog/audio/">Audio</a></li>
+<li id="menu-item-8773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8773"><a href="http://psichika.eu/blog/auklejimas/">Auklėjimas</a></li>
+<li id="menu-item-12583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12583"><a href="http://psichika.eu/blog/autizmas/">Autizmas</a></li>
+<li id="menu-item-1754" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1754"><a href="http://psichika.eu/blog/baime/">Baimė</a></li>
+<li id="menu-item-33771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33771"><a href="http://psichika.eu/blog/bedarbyste-2/">Bedarbystė</a></li>
+<li id="menu-item-12846" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12846"><a href="http://psichika.eu/blog/benamiai-2/">Benamiai</a></li>
+<li id="menu-item-516" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-516"><a href="http://psichika.eu/blog/bendravimas-ikvepiancios-istorijos/">Bendravimas</a></li>
+<li id="menu-item-27273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27273"><a href="http://psichika.eu/blog/bergsonas-anri/">Bergsonas Anri</a></li>
+<li id="menu-item-7642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7642"><a href="http://psichika.eu/blog/biblioterapija/">Biblioterapija</a></li>
+<li id="menu-item-10864" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10864"><a href="http://psichika.eu/blog/biheviorizmas/">Biheviorizmas</a></li>
+<li id="menu-item-10873" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10873"><a href="http://psichika.eu/blog/lytine-orientacija/biseksualumas/">Biseksualumas</a></li>
+<li id="menu-item-10865" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10865"><a href="http://psichika.eu/blog/bipolinis-sutrikimas-2/">Bipolinis sutrikimas</a></li>
+<li id="menu-item-2448" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2448"><a href="http://psichika.eu/blog/budizmas-2/">Budizmas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2327"><a href="http://psichika.eu/blog/budizmas-2/dzenas/">Zen</a></li>
+	<li id="menu-item-2447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2447"><a href="http://psichika.eu/blog/budizmas-2/tibeto-budizmas/">Tibeto budizmas</a></li>
+</ul>
+</li>
+<li id="menu-item-10866" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10866"><a href="http://psichika.eu/blog/charakteris/">Charakteris</a></li>
+<li id="menu-item-3918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3918"><a href="http://psichika.eu/blog/chomsky/">Chomsky Noam</a></li>
+<li id="menu-item-10874" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10874"><a href="http://psichika.eu/blog/nuotaikos-sutrikimai/ciklotimija/">Ciklotimija</a></li>
+<li id="menu-item-10867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10867"><a href="http://psichika.eu/blog/civilizacija/">Civilizacija</a></li>
+<li id="menu-item-14649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14649"><a href="http://psichika.eu/blog/dalai-lama/">Dalai Lama</a></li>
+<li id="menu-item-7502" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7502"><a href="http://psichika.eu/blog/dao/">Dao</a></li>
+<li id="menu-item-517" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-517"><a href="http://psichika.eu/blog/darbas/">Darbas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-25977" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25977"><a href="http://psichika.eu/blog/bedarbyste-2/">Bedarbystė</a></li>
+	<li id="menu-item-7047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7047"><a href="http://psichika.eu/blog/darbo-paieskos-2/">Darbo paieškos</a></li>
+	<li id="menu-item-518" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-518"><a href="http://psichika.eu/blog/darbo-psichologija/">Darbo psichologija</a></li>
+	<li id="menu-item-24418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24418"><a href="http://psichika.eu/blog/darbo-salygos/">Darbo sąlygos</a></li>
+	<li id="menu-item-13362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13362"><a href="http://psichika.eu/blog/darbo-sauga/">Darbo sauga</a></li>
+	<li id="menu-item-519" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-519"><a href="http://psichika.eu/blog/darboholizmas/">Darboholizmas</a></li>
+</ul>
+</li>
+<li id="menu-item-2785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2785"><a href="http://psichika.eu/blog/demesys-2/">Dėmesys</a></li>
+<li id="menu-item-25978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25978"><a href="http://psichika.eu/blog/demografija/">Demografija</a></li>
+<li id="menu-item-1976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1976"><a href="http://psichika.eu/blog/depresija-2/">Depresija</a></li>
+<li id="menu-item-2789" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2789"><a href="http://psichika.eu/blog/derybos/">Derybos</a></li>
+<li id="menu-item-10868" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10868"><a href="http://psichika.eu/blog/dietos/">Dietos</a></li>
+<li id="menu-item-1292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1292"><a href="http://psichika.eu/blog/dievas/">Dievas</a></li>
+<li id="menu-item-520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-520"><a href="http://psichika.eu/blog/diplominiai/">Diplominiai</a></li>
+<li id="menu-item-8774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8774"><a href="http://psichika.eu/blog/dorybes/">Dorybės</a></li>
+<li id="menu-item-10869" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10869"><a href="http://psichika.eu/blog/dovanos/">Dovanos</a></li>
+<li id="menu-item-521" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-521"><a href="http://psichika.eu/blog/drasa/">Drąsa</a></li>
+<li id="menu-item-659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-659"><a href="http://psichika.eu/blog/draugai/">Draugai</a></li>
+<li id="menu-item-10870" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10870"><a href="http://psichika.eu/blog/dvasinis-kapitalas/">Dvasinis kapitalas</a></li>
+<li id="menu-item-13063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13063"><a href="http://psichika.eu/blog/dzeimsas-viljamas/">Džeimsas Viljamas</a></li>
+<li id="menu-item-3174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3174"><a href="http://psichika.eu/blog/eft/">EFT</a></li>
+<li id="menu-item-13308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13308"><a href="http://psichika.eu/blog/egzistencializmas/">Egzistencializmas</a></li>
+<li id="menu-item-1818" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1818"><a href="http://psichika.eu/blog/ekonomika/">Ekonomika</a>
+<ul  class="sub-menu">
+	<li id="menu-item-10875" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10875"><a href="http://psichika.eu/blog/krize/ekonomine-krize/">Ekonominė krizė</a></li>
+</ul>
+</li>
+<li id="menu-item-6664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6664"><a href="http://psichika.eu/blog/eksperimentai/">Eksperimentai</a></li>
+<li id="menu-item-35997" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35997"><a href="http://psichika.eu/blog/elis-albertas/">Elis Albertas</a></li>
+<li id="menu-item-2109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2109"><a href="http://psichika.eu/blog/emigracija/">Emigracija</a></li>
+<li id="menu-item-522" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-522"><a href="http://psichika.eu/blog/emocijos/">Emocijos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-3175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3175"><a href="http://psichika.eu/blog/emociju-higiena/">Emocijų higiena</a></li>
+	<li id="menu-item-1004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1004"><a href="http://psichika.eu/blog/emocinis-intelektas/">Emocinis intelektas</a></li>
+</ul>
+</li>
+<li id="menu-item-10876" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10876"><a href="http://psichika.eu/blog/empatija/">Empatija</a></li>
+<li id="menu-item-10457" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10457"><a href="http://psichika.eu/blog/eriksonas/">Eriksonas Erikas</a></li>
+<li id="menu-item-4343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4343"><a href="http://psichika.eu/blog/erotika/">Erotika</a></li>
+<li id="menu-item-10877" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10877"><a href="http://psichika.eu/blog/mastymas/euristinis-mastymas/">Euristinis mąstymas</a></li>
+<li id="menu-item-10798" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10798"><a href="http://psichika.eu/blog/evoliucijos-psichologija/">Evoliucijos psichologija</a></li>
+<li id="menu-item-5640" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5640"><a href="http://psichika.eu/blog/ezoterika/">Ezoterika</a></li>
+<li id="menu-item-7674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7674"><a href="http://psichika.eu/blog/facebook/">Facebook</a></li>
+<li id="menu-item-17904" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17904"><a href="http://psichika.eu/blog/fenomenologija/">Fenomenologija</a></li>
+<li id="menu-item-6892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6892"><a href="http://psichika.eu/blog/feromonai/">Feromonai</a></li>
+<li id="menu-item-523" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-523"><a href="http://psichika.eu/blog/filmai/">Filmai</a></li>
+<li id="menu-item-4689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4689"><a href="http://psichika.eu/blog/filosofija/">Filosofija</a></li>
+<li id="menu-item-12324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12324"><a href="http://psichika.eu/blog/flirtas-2/">Flirtas</a></li>
+<li id="menu-item-10446" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10446"><a href="http://psichika.eu/blog/franklis-viktoras/">Franklis Viktoras</a></li>
+<li id="menu-item-8191" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8191"><a href="http://psichika.eu/blog/frish-mike/">Frish Michael</a></li>
+<li id="menu-item-5804" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5804"><a href="http://psichika.eu/blog/froidas-zigmundas/">Froidas Zigmundas</a></li>
+<li id="menu-item-5560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5560"><a href="http://psichika.eu/blog/fromas-erichas/">Fromas Erichas</a></li>
+<li id="menu-item-12012" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12012"><a href="http://psichika.eu/blog/gamta/">Gamta</a></li>
+<li id="menu-item-5920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5920"><a href="http://psichika.eu/blog/gardneris-howardas/">Gardneris Hovardas</a></li>
+<li id="menu-item-14298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14298"><a href="http://psichika.eu/blog/garsas/">Garsas</a></li>
+<li id="menu-item-20717" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20717"><a href="http://psichika.eu/blog/gasetas-chose-ortega-i/">Gasetas Chose Ortega I</a></li>
+<li id="menu-item-25973" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25973"><a href="http://psichika.eu/blog/geda/">Gėda</a></li>
+<li id="menu-item-12568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12568"><a href="http://psichika.eu/blog/genetika/">Genetika</a></li>
+<li id="menu-item-10938" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10938"><a href="http://psichika.eu/blog/genialumas/">Genialumas</a></li>
+<li id="menu-item-25979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25979"><a href="http://psichika.eu/blog/gera-nuotaika-2/">Gera nuotaika</a></li>
+<li id="menu-item-25980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25980"><a href="http://psichika.eu/blog/gerontologija/">Gerontologija</a></li>
+<li id="menu-item-7600" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7600"><a href="http://psichika.eu/blog/gerove/">Gerovė</a></li>
+<li id="menu-item-32322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32322"><a href="http://psichika.eu/blog/gerumas/">Gerumas</a></li>
+<li id="menu-item-3828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3828"><a href="http://psichika.eu/blog/gestalto-psichologija/">Geštaltpsichologija</a></li>
+<li id="menu-item-524" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-524"><a href="http://psichika.eu/blog/gyvenimo-prasme/">Gyvenimo prasmė</a></li>
+<li id="menu-item-10879" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10879"><a href="http://psichika.eu/blog/grozis/">Grožis</a></li>
+<li id="menu-item-13280" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13280"><a href="http://psichika.eu/blog/grupiu-psichologija/">Grupių psichologija</a></li>
+<li id="menu-item-2399" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2399"><a href="http://psichika.eu/blog/robert-james-havighurst/">Havighurst Robert James</a></li>
+<li id="menu-item-10880" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10880"><a href="http://psichika.eu/blog/hese-hermanas/">Hesė Hermanas</a></li>
+<li id="menu-item-16108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16108"><a href="http://psichika.eu/blog/hiperaktyvumas-2/">Hiperaktyvumas</a></li>
+<li id="menu-item-23233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23233"><a href="http://psichika.eu/blog/hipnoze-2/">Hipnozė</a></li>
+<li id="menu-item-21561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21561"><a href="http://psichika.eu/blog/hipochondrija/">Hipochondrija</a></li>
+<li id="menu-item-6276" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6276"><a href="http://psichika.eu/blog/hormonai/">Hormonai</a></li>
+<li id="menu-item-5447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5447"><a href="http://psichika.eu/blog/horney-karen/">Horney Karen</a></li>
+<li id="menu-item-2387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2387"><a href="http://psichika.eu/blog/humanistine-psichologija/">Humanistinė psichologija</a></li>
+<li id="menu-item-19314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19314"><a href="http://psichika.eu/blog/humoras/">Humoras</a></li>
+<li id="menu-item-691" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-691"><a href="http://psichika.eu/blog/ikvepimas/">Įkvėpimas</a></li>
+<li id="menu-item-13185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13185"><a href="http://psichika.eu/blog/individuacija/">Individuacija</a></li>
+<li id="menu-item-2193" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2193"><a href="http://psichika.eu/blog/individualioji-psichologija/">Individualioji psichologija</a></li>
+<li id="menu-item-1102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1102"><a href="http://psichika.eu/blog/intelektas/">Intelektas</a></li>
+<li id="menu-item-3307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3307"><a href="http://psichika.eu/blog/internetas/">Internetas</a></li>
+<li id="menu-item-37279" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-37279"><a href="http://psichika.eu/blog/intuicija/">Intuicija</a></li>
+<li id="menu-item-526" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-526"><a href="http://psichika.eu/blog/iprociai/">Įpročiai</a></li>
+<li id="menu-item-7147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7147"><a href="http://psichika.eu/blog/isitikinimai-2/">Įsitikinimai</a></li>
+<li id="menu-item-613" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-613"><a href="http://psichika.eu/blog/istorijos/">Istorijos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-614" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-614"><a href="http://psichika.eu/blog/istorijos/ikvepiancios-istorijos/">Įkvepiančios istorijos</a></li>
+	<li id="menu-item-615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-615"><a href="http://psichika.eu/blog/istorijos/pamokancios-istorijos/">Pamokančios istorijos</a></li>
+</ul>
+</li>
+<li id="menu-item-2627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2627"><a href="http://psichika.eu/blog/ismintis/">Išmintis</a></li>
+<li id="menu-item-6597" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6597"><a href="http://psichika.eu/blog/itaiga-2/">Įtaiga</a></li>
+<li id="menu-item-2336" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2336"><a href="http://psichika.eu/blog/ivaizdis/">Įvaizdis</a></li>
+<li id="menu-item-13309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13309"><a href="http://psichika.eu/blog/jaspersas-karlas/">Jaspersas Karlas</a></li>
+<li id="menu-item-5428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5428"><a href="http://psichika.eu/blog/jaunyste/">Jaunimas</a></li>
+<li id="menu-item-3566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3566"><a href="http://psichika.eu/blog/jausmai-2/">Jausmai</a></li>
+<li id="menu-item-5216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5216"><a href="http://psichika.eu/blog/joga/">Joga</a></li>
+<li id="menu-item-3044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3044"><a href="http://psichika.eu/blog/jungas/">Jungas Karlas Gustavas</a></li>
+<li id="menu-item-5187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5187"><a href="http://psichika.eu/blog/kalba/">Kalba</a>
+<ul  class="sub-menu">
+	<li id="menu-item-5188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5188"><a href="http://psichika.eu/blog/kalba/uzsienio-kalbos-mokymasis/">Užsienio kalbos mokymasis</a></li>
+</ul>
+</li>
+<li id="menu-item-8604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8604"><a href="http://psichika.eu/blog/kalte-2/">Kaltė</a></li>
+<li id="menu-item-8603" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8603"><a href="http://psichika.eu/blog/kancia-2/">Kančia</a></li>
+<li id="menu-item-3530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3530"><a href="http://psichika.eu/blog/karas/">Karas</a></li>
+<li id="menu-item-6230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6230"><a href="http://psichika.eu/blog/karjera-2/">Karjera</a></li>
+<li id="menu-item-6596" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6596"><a href="http://psichika.eu/blog/karo-psichologija/">Karo psichologija</a></li>
+<li id="menu-item-5475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5475"><a href="http://psichika.eu/blog/keliones/">Kelionės</a></li>
+<li id="menu-item-3332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3332"><a href="http://psichika.eu/blog/klaidos/">Klaidos</a></li>
+<li id="menu-item-12648" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12648"><a href="http://psichika.eu/blog/klausa/">Klausa</a></li>
+<li id="menu-item-12233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12233"><a href="http://psichika.eu/blog/klinikine-psichologija/">Klinikinė psichologija</a></li>
+<li id="menu-item-751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-751"><a href="http://psichika.eu/blog/knygu-apzvalga/">KNYGŲ apžvalga</a></li>
+<li id="menu-item-528" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-528"><a href="http://psichika.eu/blog/kognityvine-psichologija/">Kognityvinė psichologija</a></li>
+<li id="menu-item-26103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26103"><a href="http://psichika.eu/blog/komparatyvistika/">Komparatyvistika</a></li>
+<li id="menu-item-14818" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14818"><a href="http://psichika.eu/blog/kompleksai/">Kompleksai</a></li>
+<li id="menu-item-15855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15855"><a href="http://psichika.eu/blog/komunikacija-2/">Komunikacija</a></li>
+<li id="menu-item-17800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-17800"><a href="http://psichika.eu/blog/konsultavimas/">Konsultavimas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-5341" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5341"><a href="http://psichika.eu/blog/psichologinis-konsultavimas-2/">Psichologinis konsultavimas</a></li>
+</ul>
+</li>
+<li id="menu-item-12332" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12332"><a href="http://psichika.eu/blog/kosmoso-psichologija/">Kosmoso psichologija</a></li>
+<li id="menu-item-529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-529"><a href="http://psichika.eu/blog/konfliktai/">Konfliktai</a></li>
+<li id="menu-item-4516" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4516"><a href="http://psichika.eu/blog/koucingas/">Koučingas</a></li>
+<li id="menu-item-1373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1373"><a href="http://psichika.eu/blog/kritika/">Kritika</a></li>
+<li id="menu-item-624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-624"><a href="http://psichika.eu/blog/krize/">Krizė</a>
+<ul  class="sub-menu">
+	<li id="menu-item-625" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-625"><a href="http://psichika.eu/blog/krize/ekonomine-krize/">Ekonominė krizė</a></li>
+	<li id="menu-item-1315" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1315"><a href="http://psichika.eu/blog/krize/krizine-situacija/">Krizinė situacija</a></li>
+</ul>
+</li>
+<li id="menu-item-10881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10881"><a href="http://psichika.eu/blog/kultura/">Kultūra</a></li>
+<li id="menu-item-11915" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11915"><a href="http://psichika.eu/blog/kunas/">Kūnas</a></li>
+<li id="menu-item-530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-530"><a href="http://psichika.eu/blog/kursiniai/">Kursiniai</a></li>
+<li id="menu-item-1884" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1884"><a href="http://psichika.eu/blog/kuryba/">Kūryba</a></li>
+<li id="menu-item-14171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14171"><a href="http://psichika.eu/blog/kvapai/">Kvapai</a></li>
+<li id="menu-item-10882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10882"><a href="http://psichika.eu/blog/laikas-2/">Laikas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-531" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-531"><a href="http://psichika.eu/blog/laiko-planavimas/">Laiko planavimas</a></li>
+</ul>
+</li>
+<li id="menu-item-532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-532"><a href="http://psichika.eu/blog/laime-dziaugsmas/">Laimė</a></li>
+<li id="menu-item-5644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5644"><a href="http://psichika.eu/blog/laisvalaikis/">Laisvalaikis</a></li>
+<li id="menu-item-1886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1886"><a href="http://psichika.eu/blog/laisve-2/">Laisvė</a></li>
+<li id="menu-item-27430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27430"><a href="http://psichika.eu/blog/lgbt/">LGBT</a></li>
+<li id="menu-item-10923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10923"><a href="http://psichika.eu/blog/lyciu-lygybe/">Lyčių lygybė</a></li>
+<li id="menu-item-3812" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3812"><a href="http://psichika.eu/blog/lyderis/">Lyderis</a></li>
+<li id="menu-item-7115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7115"><a href="http://psichika.eu/blog/lytine-orientacija/">Lytinė orientacija</a>
+<ul  class="sub-menu">
+	<li id="menu-item-7114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7114"><a href="http://psichika.eu/blog/lytine-orientacija/biseksualumas/">Biseksualumas</a></li>
+</ul>
+</li>
+<li id="menu-item-13653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13653"><a href="http://psichika.eu/blog/lytinis-svietimas/">Lytinis švietimas</a></li>
+<li id="menu-item-6484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6484"><a href="http://psichika.eu/blog/liudesys-2/">Liūdesys</a></li>
+<li id="menu-item-1885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1885"><a href="http://psichika.eu/blog/mada/">Mada</a></li>
+<li id="menu-item-12075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12075"><a href="http://psichika.eu/blog/maistas/">Maistas</a></li>
+<li id="menu-item-16111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16111"><a href="http://psichika.eu/blog/malonumai/">Malonumai</a></li>
+<li id="menu-item-11965" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11965"><a href="http://psichika.eu/blog/manija-2/">Manija</a></li>
+<li id="menu-item-4873" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4873"><a href="http://psichika.eu/blog/manipuliacija/">Manipuliacija</a></li>
+<li id="menu-item-15549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15549"><a href="http://psichika.eu/blog/marketingas/">Marketingas</a></li>
+<li id="menu-item-2386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2386"><a href="http://psichika.eu/blog/abraham-maslow/">Maslow Abraham</a></li>
+<li id="menu-item-1350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1350"><a href="http://psichika.eu/blog/mastymas/">Mąstymas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-10936" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10936"><a href="http://psichika.eu/blog/autentiskas-mastymas/">Autentiškas mąstymas</a></li>
+	<li id="menu-item-5538" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5538"><a href="http://psichika.eu/blog/mastymas/euristinis-mastymas/">Euristinis mąstymas</a></li>
+	<li id="menu-item-5245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5245"><a href="http://psichika.eu/blog/mastymas/kritinis-mastymas/">Kritinis mąstymas</a></li>
+	<li id="menu-item-5246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5246"><a href="http://psichika.eu/blog/mastymas/kurybinis-mastymas-mastymas/">Kūrybinis mąstymas</a></li>
+	<li id="menu-item-4988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4988"><a href="http://psichika.eu/blog/mastymas/pozityvus-mastymas-mastymas/">Pozityvus mąstymas</a></li>
+</ul>
+</li>
+<li id="menu-item-2419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2419"><a href="http://psichika.eu/blog/mediacija-2/">Mediacija</a></li>
+<li id="menu-item-3916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3916"><a href="http://psichika.eu/blog/medija/">Medija</a></li>
+<li id="menu-item-533" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-533"><a href="http://psichika.eu/blog/meditacija-atsipalaidavimas/">Meditacija</a></li>
+<li id="menu-item-2485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2485"><a href="http://psichika.eu/blog/meile/">Meilė</a>
+<ul  class="sub-menu">
+	<li id="menu-item-6389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6389"><a href="http://psichika.eu/blog/meile/nelaiminga-meile/">Nelaiminga meilė</a></li>
+	<li id="menu-item-6998" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6998"><a href="http://psichika.eu/blog/meile/pazintys-internete/">Pažintys internete</a></li>
+</ul>
+</li>
+<li id="menu-item-4313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4313"><a href="http://psichika.eu/blog/melas/">Melas</a></li>
+<li id="menu-item-11075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-11075"><a href="http://psichika.eu/blog/menas/">Menas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-7703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7703"><a href="http://psichika.eu/blog/meno-terapija-2/">Meno terapija</a></li>
+</ul>
+</li>
+<li id="menu-item-8124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8124"><a href="http://psichika.eu/blog/metodai/">Metodai</a></li>
+<li id="menu-item-10884" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10884"><a href="http://psichika.eu/blog/mejus-rolas/">Mėjus Rolas</a></li>
+<li id="menu-item-6584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6584"><a href="http://psichika.eu/blog/miegas/">Miegas</a></li>
+<li id="menu-item-16205" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16205"><a href="http://psichika.eu/blog/migrena/">Migrena</a></li>
+<li id="menu-item-10885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10885"><a href="http://psichika.eu/blog/milgramas-stanlis/">Milgramas Stanlis</a></li>
+<li id="menu-item-5955" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5955"><a href="http://psichika.eu/blog/mintys/">Mintys</a></li>
+<li id="menu-item-2658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2658"><a href="http://psichika.eu/blog/mirtis/">Mirtis</a></li>
+<li id="menu-item-11076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11076"><a href="http://psichika.eu/blog/mokykla/">Mokykla</a></li>
+<li id="menu-item-1351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1351"><a href="http://psichika.eu/blog/mokslas/">Mokslas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-5353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5353"><a href="http://psichika.eu/blog/mokslas/kur-stoti-mokslas/">Kur stoti?</a></li>
+	<li id="menu-item-534" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-534"><a href="http://psichika.eu/blog/mokymasis/">Mokymasis</a></li>
+</ul>
+</li>
+<li id="menu-item-10744" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10744"><a href="http://psichika.eu/blog/montenis-miselis/">Montenis Mišelis</a></li>
+<li id="menu-item-1790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1790"><a href="http://psichika.eu/blog/morale-etika/">Moralė</a></li>
+<li id="menu-item-2931" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2931"><a href="http://psichika.eu/blog/moteris/">Moteris</a></li>
+<li id="menu-item-535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-535"><a href="http://psichika.eu/blog/motyvacija-2/">Motyvacija</a></li>
+<li id="menu-item-6929" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6929"><a href="http://psichika.eu/blog/muzika/">Muzika</a></li>
+<li id="menu-item-13756" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13756"><a href="http://psichika.eu/blog/naminiai-gyvunai/">Naminiai gyvūnai</a></li>
+<li id="menu-item-32378" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32378"><a href="http://psichika.eu/blog/pranesimai-spaudai/">Naujienos Lietuvoje</a></li>
+<li id="menu-item-28945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28945"><a href="http://psichika.eu/blog/negalia/">Negalia</a></li>
+<li id="menu-item-2963" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2963"><a href="http://psichika.eu/blog/neistikimybe/">Neištikimybė</a></li>
+<li id="menu-item-10887" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10887"><a href="http://psichika.eu/blog/nemiga-2/">Nemiga</a></li>
+<li id="menu-item-536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-536"><a href="http://psichika.eu/blog/nerimas/">Nerimas</a></li>
+<li id="menu-item-13504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13504"><a href="http://psichika.eu/blog/nervu-sistemos-ligos/">Nervų sistema</a></li>
+<li id="menu-item-36397" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36397"><a href="http://psichika.eu/blog/nesekmes/">Nesėkmės</a></li>
+<li id="menu-item-14870" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14870"><a href="http://psichika.eu/blog/nestumas-2/">Nėštumas</a></li>
+<li id="menu-item-9465" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9465"><a href="http://psichika.eu/blog/netektis/">Netektis</a></li>
+<li id="menu-item-6580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6580"><a href="http://psichika.eu/blog/neurologija/">Neurologija</a></li>
+<li id="menu-item-10888" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10888"><a href="http://psichika.eu/blog/neuromokslai/">Neuromokslai</a></li>
+<li id="menu-item-3108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3108"><a href="http://psichika.eu/blog/neuroze/">Neurozė</a></li>
+<li id="menu-item-14672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14672"><a href="http://psichika.eu/blog/new-age/">New Age</a></li>
+<li id="menu-item-3107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3107"><a href="http://psichika.eu/blog/nlp/">NLP</a></li>
+<li id="menu-item-15304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15304"><a href="http://psichika.eu/blog/nso/">NSO</a></li>
+<li id="menu-item-3109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3109"><a href="http://psichika.eu/blog/nuostatos-2/">Nuostatos</a></li>
+<li id="menu-item-1952" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1952"><a href="http://psichika.eu/blog/nuotaikos-sutrikimai/">Nuotaikos sutrikimai</a>
+<ul  class="sub-menu">
+	<li id="menu-item-6653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6653"><a href="http://psichika.eu/blog/nuotaikos-sutrikimai/ciklotimija/">Ciklotimija</a></li>
+	<li id="menu-item-2512" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2512"><a href="http://psichika.eu/blog/bipolinis-sutrikimas-2/">Bipolinis sutrikimas</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2514"><a href="http://psichika.eu/blog/nuotaikos-sutrikimai/unipolinis-sutrikimas/">Unipolinis sutrikimas</a></li>
+</ul>
+</li>
+<li id="menu-item-3045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3045"><a href="http://psichika.eu/blog/nusikaltimas/">Nusikaltimai</a></li>
+<li id="menu-item-6581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6581"><a href="http://psichika.eu/blog/obsesinis-kompulsinis-sutrikimas/">Obsesinis &#8211; kompulsinis sutrikimas</a></li>
+<li id="menu-item-12885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12885"><a href="http://psichika.eu/blog/onkologiniai-susirgimai/">Onkologiniai susirgimai</a></li>
+<li id="menu-item-5044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5044"><a href="http://psichika.eu/blog/organizacine-psichologija/">Organizacinė psichologija</a></li>
+<li id="menu-item-10889" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10889"><a href="http://psichika.eu/blog/paauglyste/">Paauglystė</a></li>
+<li id="menu-item-3170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3170"><a href="http://psichika.eu/blog/panikos-priepoliai/">Panikos priepoliai</a></li>
+<li id="menu-item-14436" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14436"><a href="http://psichika.eu/blog/parama/">Parama</a></li>
+<li id="menu-item-2155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2155"><a href="http://psichika.eu/blog/parapsichologija-mistika-metafizika/">Parapsichologija</a></li>
+<li id="menu-item-18170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18170"><a href="http://psichika.eu/blog/pardavimai-2/">Pardavimai</a></li>
+<li id="menu-item-1621" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1621"><a href="http://psichika.eu/blog/pareigos/">Pareigos</a></li>
+<li id="menu-item-14556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14556"><a href="http://psichika.eu/blog/pasakos/">Pasakos</a></li>
+<li id="menu-item-1322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1322"><a href="http://psichika.eu/blog/pasamone/">Pasąmonė</a></li>
+<li id="menu-item-19563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19563"><a href="http://psichika.eu/blog/pasauleziura/">Pasaulėžiūra</a></li>
+<li id="menu-item-537" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-537"><a href="http://psichika.eu/blog/patycios/">Patyčios</a></li>
+<li id="menu-item-4629" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4629"><a href="http://psichika.eu/blog/pavydas-2/">Pavydas</a></li>
+<li id="menu-item-4891" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4891"><a href="http://psichika.eu/blog/pazintys/">Pažintys</a></li>
+<li id="menu-item-15712" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15712"><a href="http://psichika.eu/blog/pediatrija/">Pediatrija</a></li>
+<li id="menu-item-538" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-538"><a href="http://psichika.eu/blog/pedofilija/">Pedofilija</a></li>
+<li id="menu-item-5826" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5826"><a href="http://psichika.eu/blog/perlsas-fricas/">Perlsas Fricas</a></li>
+<li id="menu-item-11587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11587"><a href="http://psichika.eu/blog/pervargimas/">Pervargimas</a></li>
+<li id="menu-item-5543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5543"><a href="http://psichika.eu/blog/pilnatve/">Pilnatvė</a></li>
+<li id="menu-item-540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-540"><a href="http://psichika.eu/blog/pyktis/">Pyktis</a></li>
+<li id="menu-item-5542" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5542"><a href="http://psichika.eu/blog/pinigai/">Pinigai</a></li>
+<li id="menu-item-7259" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7259"><a href="http://psichika.eu/blog/poilsis/">Poilsis</a></li>
+<li id="menu-item-1819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1819"><a href="http://psichika.eu/blog/politika/">Politika</a></li>
+<li id="menu-item-31237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31237"><a href="http://psichika.eu/blog/populiarioji-psichologija/">Populiarioji psichologija</a></li>
+<li id="menu-item-5544" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5544"><a href="http://psichika.eu/blog/poreikiai/">Poreikiai</a></li>
+<li id="menu-item-10890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10890"><a href="http://psichika.eu/blog/pornografija-2/">Pornografija</a></li>
+<li id="menu-item-10892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10892"><a href="http://psichika.eu/blog/santykiai/poros-sanykiai/">Poros sanykiai</a></li>
+<li id="menu-item-539" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-539"><a href="http://psichika.eu/blog/pozityvi-jaunimo-raida/">Pozityvi jaunimo raida</a></li>
+<li id="menu-item-1273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1273"><a href="http://psichika.eu/blog/pozityvioji-psichologija/">Pozityvioji psichologija</a></li>
+<li id="menu-item-10893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10893"><a href="http://psichika.eu/blog/mastymas/pozityvus-mastymas-mastymas/">Pozityvus mąstymas</a></li>
+<li id="menu-item-11792" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11792"><a href="http://psichika.eu/blog/pranesimai-spaudai/">Naujienos Lietuvoje</a></li>
+<li id="menu-item-29916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29916"><a href="http://psichika.eu/blog/prekyba-zmonemis/">Prekyba žmonėmis</a></li>
+<li id="menu-item-10891" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10891"><a href="http://psichika.eu/blog/prenataline-psichologija/">Prenatalinė psichologija</a></li>
+<li id="menu-item-15094" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15094"><a href="http://psichika.eu/blog/prietarai-2/">Prietarai</a></li>
+<li id="menu-item-5990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5990"><a href="http://psichika.eu/blog/prigimtis/">Prigimtis</a></li>
+<li id="menu-item-2979" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2979"><a href="http://psichika.eu/blog/priklausomybes/">Priklausomybės</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4418" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4418"><a href="http://psichika.eu/blog/priklausomybes/alkoholizmas-2/">Alkoholis</a></li>
+	<li id="menu-item-10895" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10895"><a href="http://psichika.eu/blog/rukymas/">Rūkymas</a></li>
+	<li id="menu-item-6744" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6744"><a href="http://psichika.eu/blog/zaidimai/">Žaidimai</a></li>
+</ul>
+</li>
+<li id="menu-item-4690" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4690"><a href="http://psichika.eu/blog/principai/">Principai</a></li>
+<li id="menu-item-7351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7351"><a href="http://psichika.eu/blog/profesija/">Profesija</a></li>
+<li id="menu-item-12981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12981"><a href="http://psichika.eu/blog/projekcija-2/">Projekcija</a></li>
+<li id="menu-item-7350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7350"><a href="http://psichika.eu/blog/prostitucija/">Prostitucija</a></li>
+<li id="menu-item-10566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10566"><a href="http://psichika.eu/blog/protas-2/">Protas</a></li>
+<li id="menu-item-13035" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13035"><a href="http://psichika.eu/blog/proto-negalia/">Proto negalia</a></li>
+<li id="menu-item-15832" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15832"><a href="http://psichika.eu/blog/pseudopsichologija/">Pseudopsichologija</a></li>
+<li id="menu-item-1439" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1439"><a href="http://psichika.eu/blog/psichiatrija/">Psichiatrija</a></li>
+<li id="menu-item-980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-980"><a href="http://psichika.eu/blog/psichikos-sutrikimai/">Psichikos sutrikimai</a></li>
+<li id="menu-item-5805" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5805"><a href="http://psichika.eu/blog/psichoanalize/">Psichoanalizė</a></li>
+<li id="menu-item-14732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14732"><a href="http://psichika.eu/blog/psichodelika/">Psichodelika</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-981"><a href="http://psichika.eu/blog/psichopatija/">Psichopatija</a></li>
+<li id="menu-item-6530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6530"><a href="http://psichika.eu/blog/psichodrama/">Psichodrama</a></li>
+<li id="menu-item-6106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6106"><a href="http://psichika.eu/blog/psichologas-atsako/">Specialisto komentaras</a></li>
+<li id="menu-item-6532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6532"><a href="http://psichika.eu/blog/psichologija/">Psichologija</a></li>
+<li id="menu-item-10367" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10367"><a href="http://psichika.eu/blog/psichologine-pagalba/">Psichologinė pagalba</a></li>
+<li id="menu-item-5658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5658"><a href="http://psichika.eu/blog/psichologines-gynybos/">Psichologinės gynybos</a></li>
+<li id="menu-item-29683" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29683"><a href="http://psichika.eu/blog/psichologinis-ivertinimas/">Psichologinis įvertinimas</a></li>
+<li id="menu-item-21839" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21839"><a href="http://psichika.eu/blog/psichopatija/">Psichopatija</a></li>
+<li id="menu-item-12234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12234"><a href="http://psichika.eu/blog/psichopatologija/">Psichopatologija</a></li>
+<li id="menu-item-12744" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12744"><a href="http://psichika.eu/blog/psichosomatika/">Psichosomatika</a></li>
+<li id="menu-item-4939" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4939"><a href="http://psichika.eu/blog/psichoterapija/">Psichoterapija</a></li>
+<li id="menu-item-9265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9265"><a href="http://psichika.eu/blog/psidi/">PsiDi</a></li>
+<li id="menu-item-541" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-541"><a href="http://psichika.eu/blog/raida/">Raida</a></li>
+<li id="menu-item-2216" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2216"><a href="http://psichika.eu/blog/raidos-psichologija/">Raidos psichologija</a></li>
+<li id="menu-item-14266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14266"><a href="http://psichika.eu/blog/rega/">Rega</a></li>
+<li id="menu-item-5898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5898"><a href="http://psichika.eu/blog/reichas-vilhelmas/">Reichas Vilhelmas</a></li>
+<li id="menu-item-14267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14267"><a href="http://psichika.eu/blog/reklama/">Reklama</a></li>
+<li id="menu-item-1855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1855"><a href="http://psichika.eu/blog/relaksacija/">Relaksacija</a></li>
+<li id="menu-item-1791" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1791"><a href="http://psichika.eu/blog/religija/">Religija</a></li>
+<li id="menu-item-3209" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3209"><a href="http://psichika.eu/blog/rinkimai/">Rinkimai</a></li>
+<li id="menu-item-14673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14673"><a href="http://psichika.eu/blog/rytai/">Rytai</a></li>
+<li id="menu-item-542" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-542"><a href="http://psichika.eu/blog/rizika/">Rizika</a></li>
+<li id="menu-item-2395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2395"><a href="http://psichika.eu/blog/carl-ransom-rogers/">Rogers Carl Ransom</a></li>
+<li id="menu-item-8134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8134"><a href="http://psichika.eu/blog/rotter-julian/">Rotter Julian</a></li>
+<li id="menu-item-2980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2980"><a href="http://psichika.eu/blog/rukymas/">Rūkymas</a></li>
+<li id="menu-item-14733" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14733"><a href="http://psichika.eu/blog/samone-2/">Sąmonė</a></li>
+<li id="menu-item-543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-543"><a href="http://psichika.eu/blog/santykiai/">Santykiai</a>
+<ul  class="sub-menu">
+	<li id="menu-item-7234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7234"><a href="http://psichika.eu/blog/santykiai/poros-sanykiai/">Poros sanykiai</a></li>
+</ul>
+</li>
+<li id="menu-item-5247" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5247"><a href="http://psichika.eu/blog/santuoka/">Santuoka</a></li>
+<li id="menu-item-5100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5100"><a href="http://psichika.eu/blog/sapnai/">Sapnai</a></li>
+<li id="menu-item-13324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13324"><a href="http://psichika.eu/blog/savanoryste/">Savanorystė</a></li>
+<li id="menu-item-544" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-544"><a href="http://psichika.eu/blog/saves-pazinimas/">Savęs pažinimas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-946" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-946"><a href="http://psichika.eu/blog/saves-pazinimas/aukstumu-isgyvenimai/">Aukštumų išgyvenimai</a></li>
+</ul>
+</li>
+<li id="menu-item-10897" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10897"><a href="http://psichika.eu/blog/savianalize/">Savianalizė</a></li>
+<li id="menu-item-5045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5045"><a href="http://psichika.eu/blog/savigarba/">Savigarba</a></li>
+<li id="menu-item-1005" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1005"><a href="http://psichika.eu/blog/savikontrole/">Savikontrolė</a></li>
+<li id="menu-item-1563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1563"><a href="http://psichika.eu/blog/savimeile/">Savimeilė</a></li>
+<li id="menu-item-664" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-664"><a href="http://psichika.eu/blog/savipagalba/">Savipagalba</a></li>
+<li id="menu-item-7292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7292"><a href="http://psichika.eu/blog/savirealizacija/">Savirealizacija</a></li>
+<li id="menu-item-10898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10898"><a href="http://psichika.eu/blog/savitaiga/">Savitaiga</a></li>
+<li id="menu-item-545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-545"><a href="http://psichika.eu/blog/saviugda/">Saviugda</a></li>
+<li id="menu-item-1103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1103"><a href="http://psichika.eu/blog/savivaizdis-2/">Savivaizdis</a></li>
+<li id="menu-item-546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-546"><a href="http://psichika.eu/blog/saviverte/">Savivertė</a></li>
+<li id="menu-item-8882" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8882"><a href="http://psichika.eu/blog/savizudybe/">Savižudybė</a></li>
+<li id="menu-item-10863" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10863"><a href="http://psichika.eu/blog/sazine-morale/">Sąžinė</a></li>
+<li id="menu-item-547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-547"><a href="http://psichika.eu/blog/seima/">Šeima</a></li>
+<li id="menu-item-1411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1411"><a href="http://psichika.eu/blog/sekme/">Sėkmė</a></li>
+<li id="menu-item-1732" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1732"><a href="http://psichika.eu/blog/seksas/">Seksas</a></li>
+<li id="menu-item-548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-548"><a href="http://psichika.eu/blog/sektos/">Sektos</a></li>
+<li id="menu-item-3813" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3813"><a href="http://psichika.eu/blog/seminarai/">Seminarai</a></li>
+<li id="menu-item-549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-549"><a href="http://psichika.eu/blog/senatve/">Senatvė</a></li>
+<li id="menu-item-4673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4673"><a href="http://psichika.eu/blog/siela/">Siela</a></li>
+<li id="menu-item-15093" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15093"><a href="http://psichika.eu/blog/simboliai/">Simboliai</a></li>
+<li id="menu-item-12235" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12235"><a href="http://psichika.eu/blog/sindromai/">Sindromai</a></li>
+<li id="menu-item-550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-550"><a href="http://psichika.eu/blog/sisteminis-poziuris/">Sisteminis požiūris</a></li>
+<li id="menu-item-4883" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4883"><a href="http://psichika.eu/blog/skaitymas/">Skaitymas</a></li>
+<li id="menu-item-3532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3532"><a href="http://psichika.eu/blog/skaitytoju-laiskai/">Skaitytojų laiškai</a></li>
+<li id="menu-item-10899" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10899"><a href="http://psichika.eu/blog/skausmas/">Skausmas</a></li>
+<li id="menu-item-3681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3681"><a href="http://psichika.eu/blog/skyrybos/">Skyrybos</a></li>
+<li id="menu-item-654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-654"><a href="http://psichika.eu/blog/skolos/">Skolos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-655"><a href="http://psichika.eu/blog/skolos/skolininko-psichologija/">Skolininko psichologija</a></li>
+</ul>
+</li>
+<li id="menu-item-14144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14144"><a href="http://psichika.eu/blog/slauga/">Slauga</a></li>
+<li id="menu-item-4700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4700"><a href="http://psichika.eu/blog/smegenys/">Smegenys</a></li>
+<li id="menu-item-5618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-5618"><a href="http://psichika.eu/blog/smurtas/">Smurtas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-12381" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12381"><a href="http://psichika.eu/blog/smurtas/lytinis-smurtas/">Lytinis smurtas</a></li>
+	<li id="menu-item-12382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12382"><a href="http://psichika.eu/blog/psichologinis-smurtas-2/">Psichologinis smurtas</a></li>
+	<li id="menu-item-12383" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12383"><a href="http://psichika.eu/blog/smurtas/smurtas-seimoje/">Smurtas šeimoje</a></li>
+</ul>
+</li>
+<li id="menu-item-14410" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14410"><a href="http://psichika.eu/blog/socialine-atskirtis/">Socialinė atskirtis</a></li>
+<li id="menu-item-24625" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24625"><a href="http://psichika.eu/blog/socialine-pedagogika/">Socialinė pedagogika</a></li>
+<li id="menu-item-2220" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2220"><a href="http://psichika.eu/blog/socialine-psichologija/">Socialinė psichologija</a></li>
+<li id="menu-item-15701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15701"><a href="http://psichika.eu/blog/socialine-sauga/">Socialinė sauga</a></li>
+<li id="menu-item-10486" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10486"><a href="http://psichika.eu/blog/socialiniai-tinklai-2/">Socialiniai tinklai</a></li>
+<li id="menu-item-6302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6302"><a href="http://psichika.eu/blog/socialinis-darbas/">Socialinis darbas</a></li>
+<li id="menu-item-1916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1916"><a href="http://psichika.eu/blog/socialinis-nerimas/">Socialinis nerimas</a></li>
+<li id="menu-item-3183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3183"><a href="http://psichika.eu/blog/socializacija/">Socializacija</a></li>
+<li id="menu-item-10494" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10494"><a href="http://psichika.eu/blog/sociologija/">Sociologija</a></li>
+<li id="menu-item-10495" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10495"><a href="http://psichika.eu/blog/sq/">SQ</a></li>
+<li id="menu-item-10354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10354"><a href="http://psichika.eu/blog/statistika/">Statistika</a></li>
+<li id="menu-item-6503" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6503"><a href="http://psichika.eu/blog/stemberg-r-j/">Stemberg R. J.</a></li>
+<li id="menu-item-6504" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6504"><a href="http://psichika.eu/blog/stereotipai/">Stereotipai</a></li>
+<li id="menu-item-13709" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13709"><a href="http://psichika.eu/blog/strategija/">Strategija</a></li>
+<li id="menu-item-551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-551"><a href="http://psichika.eu/blog/stresas/">Stresas</a>
+<ul  class="sub-menu">
+	<li id="menu-item-13386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13386"><a href="http://psichika.eu/blog/stresas/egzaminu-stresas/">Egzaminų stresas</a></li>
+	<li id="menu-item-552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-552"><a href="http://psichika.eu/blog/streso-iveikos/">Streso įveikos</a></li>
+</ul>
+</li>
+<li id="menu-item-10901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10901"><a href="http://psichika.eu/blog/sullivan-harry-stack/">Sullivan Harry Stack</a></li>
+<li id="menu-item-686" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-686"><a href="http://psichika.eu/blog/sunkumai/">Sunkumai</a></li>
+<li id="menu-item-31909" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31909"><a href="http://psichika.eu/blog/suvokimas/">Suvokimas</a></li>
+<li id="menu-item-2412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2412"><a href="http://psichika.eu/blog/svajones/">Svajonės</a></li>
+<li id="menu-item-13814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13814"><a href="http://psichika.eu/blog/sveikata-2/">Sveikata</a></li>
+<li id="menu-item-13813" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13813"><a href="http://psichika.eu/blog/sveikas-gyvenimo-budas/">Sveikas gyvenimo būdas</a></li>
+<li id="menu-item-8595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8595"><a href="http://psichika.eu/blog/sizofrenija/">Šizofrenija</a></li>
+<li id="menu-item-15710" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15710"><a href="http://psichika.eu/blog/sveiceris-albertas/">Šveiceris Albertas</a></li>
+<li id="menu-item-9627" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9627"><a href="http://psichika.eu/blog/sventes/">Šventės</a></li>
+<li id="menu-item-10645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10645"><a href="http://psichika.eu/blog/svietimas/">Švietimas</a></li>
+<li id="menu-item-9867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9867"><a href="http://psichika.eu/blog/talentas/">Talentas</a></li>
+<li id="menu-item-5995" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5995"><a href="http://psichika.eu/blog/tapingas/">Tapingas</a></li>
+<li id="menu-item-11916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11916"><a href="http://psichika.eu/blog/tatuiruotes/">Tatuiruotės</a></li>
+<li id="menu-item-5996" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5996"><a href="http://psichika.eu/blog/taupumas/">Taupumas</a></li>
+<li id="menu-item-6631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6631"><a href="http://psichika.eu/blog/tauta/">Tauta</a></li>
+<li id="menu-item-5994" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5994"><a href="http://psichika.eu/blog/technikos/">Technikos</a></li>
+<li id="menu-item-6776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6776"><a href="http://psichika.eu/blog/technologijos/">Technologijos</a></li>
+<li id="menu-item-1622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1622"><a href="http://psichika.eu/blog/teises/">Teisės</a></li>
+<li id="menu-item-10626" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10626"><a href="http://psichika.eu/blog/teises-psichologija/">Teisės psichologija</a></li>
+<li id="menu-item-15702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15702"><a href="http://psichika.eu/blog/teisetvarka/">Teisėtvarka</a></li>
+<li id="menu-item-4701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4701"><a href="http://psichika.eu/blog/telepatija/">Telepatija</a></li>
+<li id="menu-item-10382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10382"><a href="http://psichika.eu/blog/televizija/">Televizija</a></li>
+<li id="menu-item-7758" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7758"><a href="http://psichika.eu/blog/temperamentas/">Temperamentas</a></li>
+<li id="menu-item-1568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1568"><a href="http://psichika.eu/blog/terapija/">Terapija</a>
+<ul  class="sub-menu">
+	<li id="menu-item-7717" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7717"><a href="http://psichika.eu/blog/biblioterapija/">Biblioterapija</a></li>
+	<li id="menu-item-29784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29784"><a href="http://psichika.eu/blog/terapija/dailes-terapija/">Dailės terapija</a></li>
+	<li id="menu-item-10878" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10878"><a href="http://psichika.eu/blog/gestalto-terapija/">Geštalto terapija</a></li>
+	<li id="menu-item-3603" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3603"><a href="http://psichika.eu/blog/kognityvine-elgesio-terapija/">Kognityvinė elgesio terapija</a></li>
+	<li id="menu-item-7718" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7718"><a href="http://psichika.eu/blog/meno-terapija-2/">Meno terapija</a></li>
+	<li id="menu-item-7719" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7719"><a href="http://psichika.eu/blog/psichoterapija/">Psichoterapija</a></li>
+	<li id="menu-item-3606" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3606"><a href="http://psichika.eu/blog/racionalaus-emocinio-elgesio-terapija/">Racionalaus emocinio elgesio terapija</a></li>
+	<li id="menu-item-26799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26799"><a href="http://psichika.eu/blog/terapija/sokio-judesio-terapija/">Šokio-judesio terapija</a></li>
+</ul>
+</li>
+<li id="menu-item-1487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1487"><a href="http://psichika.eu/blog/testai/">Testai</a></li>
+<li id="menu-item-1075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1075"><a href="http://psichika.eu/blog/tevai/">Tėvai</a></li>
+<li id="menu-item-6908" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6908"><a href="http://psichika.eu/blog/tevai-ir-vaikai/">Tėvai ir vaikai</a></li>
+<li id="menu-item-4440" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4440"><a href="http://psichika.eu/blog/tiesa/">Tiesa</a></li>
+<li id="menu-item-2697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2697"><a href="http://psichika.eu/blog/tikslai/">Tikslai</a></li>
+<li id="menu-item-2698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2698"><a href="http://psichika.eu/blog/tinginyste-2/">Tinginystė</a></li>
+<li id="menu-item-11461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11461"><a href="http://psichika.eu/blog/tyrimai/">Tyrimai</a></li>
+<li id="menu-item-2137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2137"><a href="http://psichika.eu/blog/tolerancija/">Tolerancija</a></li>
+<li id="menu-item-14584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14584"><a href="http://psichika.eu/blog/traumos/">Traumos</a></li>
+<li id="menu-item-12236" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12236"><a href="http://psichika.eu/blog/turizmas/">Turizmas</a></li>
+<li id="menu-item-10902" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10902"><a href="http://psichika.eu/blog/turtas/">Turtas</a></li>
+<li id="menu-item-16527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16527"><a href="http://psichika.eu/blog/ugdymas-2/">Ugdymas</a></li>
+<li id="menu-item-10903" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10903"><a href="http://psichika.eu/blog/vadovavimas/">Vadovavimas</a></li>
+<li id="menu-item-1014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1014"><a href="http://psichika.eu/blog/vaikai-2/">Vaikai</a>
+<ul  class="sub-menu">
+	<li id="menu-item-12074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12074"><a href="http://psichika.eu/blog/vaikai-2/isivaikinimas-vaikai-2/">Įsivaikinimas</a></li>
+	<li id="menu-item-4972" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4972"><a href="http://psichika.eu/blog/vaikai-2/vaiku-auklejimas-vaikai-2/">Vaikų auklėjimas</a></li>
+	<li id="menu-item-17027" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17027"><a href="http://psichika.eu/blog/vaikai-2/vaiku-globa/">Vaikų globa</a></li>
+	<li id="menu-item-1015" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1015"><a href="http://psichika.eu/blog/vaikai-2/vaiku-raida/">Vaikų raida</a></li>
+</ul>
+</li>
+<li id="menu-item-11328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11328"><a href="http://psichika.eu/blog/vairavimas-2/">Vairavimas</a></li>
+<li id="menu-item-9301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9301"><a href="http://psichika.eu/blog/vaizduote/">Vaizduotė</a></li>
+<li id="menu-item-4117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4117"><a href="http://psichika.eu/blog/valgymo-sutrikimai/">Valgymo sutrikimai</a></li>
+<li id="menu-item-11791" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11791"><a href="http://psichika.eu/blog/valia/">Valia</a></li>
+<li id="menu-item-12552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12552"><a href="http://psichika.eu/blog/vardai/">Vardai</a></li>
+<li id="menu-item-14585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14585"><a href="http://psichika.eu/blog/vasara/">Vasara</a></li>
+<li id="menu-item-14674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14674"><a href="http://psichika.eu/blog/vedos-2/">Vedos</a></li>
+<li id="menu-item-1016" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1016"><a href="http://psichika.eu/blog/verslas/">Verslas</a></li>
+<li id="menu-item-1717" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1717"><a href="http://psichika.eu/blog/verslo-psichologija/">Verslo psichologija</a></li>
+<li id="menu-item-554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-554"><a href="http://psichika.eu/blog/vertybes/">Vertybės</a></li>
+<li id="menu-item-10249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10249"><a href="http://psichika.eu/blog/vienatve/">Vienatvė</a></li>
+<li id="menu-item-2713" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2713"><a href="http://psichika.eu/blog/visuomene/">Visuomenė</a></li>
+<li id="menu-item-10250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10250"><a href="http://psichika.eu/blog/vyrai/">Vyrai</a></li>
+<li id="menu-item-2714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2714"><a href="http://psichika.eu/blog/vyrai-ir-moterys/">Vyrai ir moterys</a></li>
+<li id="menu-item-10797" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10797"><a href="http://psichika.eu/blog/zoopsichologija/">Zoopsichologija</a></li>
+<li id="menu-item-5695" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5695"><a href="http://psichika.eu/blog/zaidimai/">Žaidimai</a></li>
+<li id="menu-item-15092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15092"><a href="http://psichika.eu/blog/zenklai/">Ženklai</a></li>
+<li id="menu-item-10904" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10904"><a href="http://psichika.eu/blog/zmogus/">Žmogus</a></li>
+<li id="menu-item-3046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3046"><a href="http://psichika.eu/blog/zmogzudyste/">Žmogžudystė</a></li>
+<li id="menu-item-6632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6632"><a href="http://psichika.eu/blog/zmonija/">Žmonija</a></li>
+</ul></div></aside></div>
+</div><!-- SIDEBAR-INNER END -->
+</div><!-- LEFT SIDEBAR END -->
+</div><!-- CONTENT INNER END -->
+</div><!-- CONTENT END -->
+</div><!-- CONTAINER WRAP END -->
+
+</div><!-- CONTAINER END -->
+
+</div><!-- BODYCONTENT END -->
+
+</div><!-- INNERWRAP BODYWRAP END -->
+
+</div><!-- WRAPPER MAIN END -->
+
+</div><!-- WRAPPER END -->
+
+
+<footer class="footer-top"><div class="innerwrap"><div class="ftop"><div class="footer-container-wrap">
+
+
+
+<div class="fbox footer-three"><div class="widget-area the-icons">
+<aside id="text-56" class="widget widget_text">			<div class="textwidget"></div>
+		</aside></div></div>
+
+
+</div></div></div></footer>
+
+
+<footer class="footer-bottom">
+<div class="innerwrap">
+<div class="fbottom">
+<div class="footer-left">
+Copyright &copy;2017. Psichika</div>
+<div class="footer-right">
+<!-- Mesocolumn Theme by Dezzain, download and info at https://wordpress.org/themes/mesocolumn --></div>
+</div>
+</div>
+</footer>
+<!-- FOOTER BOTTOM END -->
+
+
+</div>
+<!-- SECBODY END -->
+
+
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/lt_LT/sdk.js#xfbml=1&appId=141309405992899&version=v2.0";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script><script type='text/javascript' src='http://psichika.eu/feed//wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://psichika.eu/feed//wp-content/themes/mesocolumn/lib/scripts/modernizr/modernizr.js?ver=1.6.5.1'></script>
+<script type='text/javascript' src='http://psichika.eu/feed//wp-content/themes/mesocolumn/lib/scripts/superfish-menu/js/superfish.js?ver=1.6.5.1'></script>
+<script type='text/javascript' src='http://psichika.eu/feed//wp-content/themes/mesocolumn/lib/scripts/superfish-menu/js/supersubs.js?ver=1.6.5.1'></script>
+<script type='text/javascript' src='http://psichika.eu/feed//wp-content/themes/mesocolumn/lib/scripts/custom.js?ver=1.6.5.1'></script>
+<script type='text/javascript' src='http://psichika.eu/feed//wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+
+</body>
+
+</html>
