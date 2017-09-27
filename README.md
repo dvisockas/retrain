@@ -7,6 +7,10 @@ In particular we will use photos of flowers
 
 ## Steps
 
+### 0. Install tensorflow
+
+`$ pip install tensorflow` or `$ conda install tensorflow`
+
 ### 1. Retrain Inception
 
 Run the following command (edit paths and training steps as you please)
