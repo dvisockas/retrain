@@ -26,27 +26,10 @@ python ./retrain.py \
 --image_dir ./tf_files/zali
 ```
 
-### 3. Inspect the files created by the training
-
-The `tf_files` folder now contains a lot of new files:
-
-```
-tf_files
-|- bottlenecks
-|- flower_photos
-|- inception
-    |- classify_image_graph_def.pb
-    |- cropped_panda.jpg
-    |- imagenet_2012_challenge_label_map_proto.pbtxt
-    |- imagenet_synset_to_human_label_map.txt
-    |- inception-2015-12-05.tgz
-    |- LICENSE
-```
-
 read more about their content [here](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets).
 
 
-### 4. Use the retrained Inception
+### 2. Predict the label of an image using Inception
 
 Let's test the re-training on a karbauskis image:
 ```
@@ -55,6 +38,6 @@ python ./label_image.py ./tf_files/ar_tikrai_ramunas.jpg
 
 you should get something like:
 ```
-karbakrauskis (score = 0.99071)
+karbakrauskis (score = 0.93071)
 veryga (score = 0.00595)
 ```
