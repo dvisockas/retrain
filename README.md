@@ -3,7 +3,7 @@ Standalone version of Tensorflow Inception Retrain. Google Codelabs can be found
 
 This example downloads a pre-trained version of the inception model and re-trains the last layers to recognize custom categories of images. 
 
-In particular we will use photos of flowers
+In particular we will use pictures of Ramūnas Karbauskis and Aurelijus Veryga
 
 ## Steps
 
