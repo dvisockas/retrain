@@ -7,20 +7,7 @@ In particular we will use photos of flowers
 
 ## Steps
 
-### 1. (optional) Download flower files
-In a terminal, run the following commands:
-```
-mkdir tf_files
-cd tf_files
-curl -O http://download.tensorflow.org/example_images/flower_photos.tgz
-tar xzf flower_photos.tgz
-rm flower_photos.tgz
-cd ..
-```
-
-Go check out the files you just downloaded in the `tf_files` folder.
-
-### 2. Retrain Inception
+### 1. Retrain Inception
 
 Run the following command (edit paths and training steps as you please)
 ```
@@ -30,7 +17,7 @@ python ./retrain.py \
 --model_dir=./tf_files/inception \
 --output_graph=./tf_files/retrained_graph.pb \
 --output_labels=./tf_files/retrained_labels.txt \
---image_dir ./tf_files/flower_photos
+--image_dir ./tf_files/zali
 ```
 
 ### 3. Inspect the files created by the training
@@ -52,30 +39,16 @@ tf_files
 
 read more about their content [here](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets).
 
-### 4. Optimize Inception for inference (prediction)
 
-Run the following command
+### 4. Use the retrained Inception
+
+Let's test the re-training on a karbauskis image:
 ```
-python ./optimize.py \
---input=./tf_files/retrained_graph.pb \
---output=./tf_files/optimized_graph.pb \
---input_names=Mul \
---output_names=final_result
-```
-
-
-### 5. Use the retrained Inception
-
-Let's test the re-training on a daisy image:
-```
-python ./label_image.py ./tf_files/flower_photos/daisy/21652746_cc379e0eea_m.jpg
+python ./label_image.py ./tf_files/ar_tikrai_ramunas.jpg
 ```
 
 you should get something like:
 ```
-daisy (score = 0.99071)
-sunflowers (score = 0.00595)
-dandelion (score = 0.00252)
-roses (score = 0.00049)
-tulips (score = 0.00032)
+karbakrauskis (score = 0.99071)
+veryga (score = 0.00595)
 ```
