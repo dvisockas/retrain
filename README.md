@@ -31,7 +31,7 @@ read more about their content [here](https://codelabs.developers.google.com/code
 
 ### 2. Predict the label of an image using Inception
 
-Let's test the re-training on a karbauskis image:
+Let's test the re-training on a Veryga image:
 ```
 python ./label_image.py ./tf_files/ar_tikrai_veryga.jpg
 ```
