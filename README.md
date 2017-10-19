@@ -7,13 +7,14 @@ In particular we will use pictures of Ramūnas Karbauskis and Aurelijus Veryga
 
 ## Steps
 
-### 0. Install tensorflow
+### 0. Install python/anaconda
 
-```$ pip install tensorflow```
-or
+You can download it by [clicking here](https://conda.io/miniconda.html)
+
+### 1. Install tensorflow
 ```$ conda install tensorflow```
 
-### 1. Retrain Inception
+### 2. Retrain Inception
 
 Run the following command (edit paths and training steps as you please)
 ```
@@ -29,7 +30,7 @@ python ./retrain.py \
 read more about their content [here](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets).
 
 
-### 2. Predict the label of an image using Inception
+### 3. Predict the label of an image using Inception
 
 Let's test the re-training on a Veryga image:
 ```
