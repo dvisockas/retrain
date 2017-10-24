@@ -39,6 +39,7 @@ python ./label_image.py ./tf_files/ar_tikrai_veryga.jpg
 
 you should get something like:
 ```
-veryga (score = 0.99771)
-karbakrauskis (score = 0.00229)
+veryga (95.94% sure)
+karbauskis (2.79% sure)
+sirinskiene (1.28% sure)
 ```
