@@ -20,7 +20,7 @@ Run the following command (edit paths and training steps as you please)
 ```
 python ./retrain.py \
 --bottleneck_dir=./tf_files/bottlenecks \
---how_many_training_steps 500 \
+--how_many_training_steps 1000 \
 --model_dir=./tf_files/inception \
 --output_graph=./tf_files/retrained_graph.pb \
 --output_labels=./tf_files/retrained_labels.txt \
@@ -39,15 +39,9 @@ python ./label_image.py ./tf_files/ar_tikrai_veryga.jpg
 
 you should get something like:
 ```
-<<<<<<< HEAD
-veryga (95.94% sure)
-karbauskis (2.79% sure)
-sirinskiene (1.28% sure)
-=======
 veryga (77.84% sure)
 butkevicius (17.72% sure)
 karbauskis (3.24% sure)
 sirinskiene (0.83% sure)
 simonyte (0.36% sure)
->>>>>>> ce5347d4edfbc450c395412a635dcfc8cb34db6a
 ```
