@@ -3,7 +3,7 @@ Standalone version of Tensorflow Inception Retrain. Google Codelabs can be found
 
 This example downloads a pre-trained version of the inception model and re-trains the last layers to recognize custom categories of images. 
 
-In particular we will use pictures of Ramūnas Karbauskis and Aurelijus Veryga
+In particular we will use pictures of Ramūnas Karbauskis, Aurelijus Veryga, Agne Sirinskiene, Ingrida Simonyte and Algirdas Butkevicius
 
 ## Steps
 
@@ -39,7 +39,15 @@ python ./label_image.py ./tf_files/ar_tikrai_veryga.jpg
 
 you should get something like:
 ```
+<<<<<<< HEAD
 veryga (95.94% sure)
 karbauskis (2.79% sure)
 sirinskiene (1.28% sure)
+=======
+veryga (77.84% sure)
+butkevicius (17.72% sure)
+karbauskis (3.24% sure)
+sirinskiene (0.83% sure)
+simonyte (0.36% sure)
+>>>>>>> ce5347d4edfbc450c395412a635dcfc8cb34db6a
 ```
